@@ -1,0 +1,12 @@
+(load "stanje.lisp")
+(load "crtaj.lisp")
+(load "kraj.lisp")
+(load "validanpotez.lisp")
+(load "promenastanja.lisp")
+(load "genstanja.lisp")
+(load "pvp.lisp")
+(load "minmax.lisp")
+(load "pve.lisp")
+(load "inference_engine.lisp")
+
+(startPvEO 8 2)
